@@ -1,0 +1,6 @@
+host=myjellyserver.com
+apikey=12345678912345678912345678912345
+userid=12345678-1234-1234-1234-123456789123
+imagesdir=assets/images/jellyfin/
+cachetime=3600
+itemlimit=20
