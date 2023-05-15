@@ -1,5 +1,5 @@
 # kirby-jellyfin
-![header](https://github.com/GeneMarks/kirby-jellyfin/assets/68919132/e0f2f361-ff11-4362-b8a2-44304f736980)
+![jf](https://github.com/GeneMarks/kirby-jellyfin/assets/68919132/da3a65c8-44c7-4762-bdc7-71ba59a432ae)
 
 Kirby plugin that shows recently watched content from a Jellyfin server. See a [live preview](https://genemarks.net/about) by clicking the "Watching" tab.
 
