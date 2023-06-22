@@ -1,7 +1,9 @@
 # kirby-jellyfin
 ![jf](https://github.com/GeneMarks/kirby-jellyfin/assets/68919132/da3a65c8-44c7-4762-bdc7-71ba59a432ae)
 
-Kirby plugin that shows recently watched content from a Jellyfin server. See a [live preview](https://genemarks.net/about) by clicking the "Watching" tab.
+Kirby plugin that shows recently watched content from a Jellyfin server. See a [live preview](https://genemarks.net/about)<super>*</super> by clicking the "Watching" tab.
+
+<super>*</super><sub>This site doesn't run on kirby anymore, but you can still see what it looks like.</sub>
 
 ## Features
 - Generates JSON output of recently watched movie and tv items, their titles, the dates they were played, how many plays they have, etc.
@@ -31,4 +33,4 @@ imagesdir=assets/images/jellyfin/
 cachetime=3600
 itemlimit=20
 ```
-4. View the provided `jellyfin.js` file to see an example implementation. You can see a live example of this implementation [here](https://genemarks.net/about) by clicking the "Watching" tab.
+4. View the provided `jellyfin.js` file to see an example implementation.
